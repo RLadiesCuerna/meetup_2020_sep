@@ -12,7 +12,7 @@
 # Tambien se puede descargar mediante la siguiente linea:
 
 #install.packages("usethis")
-usethis::use_course('RLadiesCuerna/presentaciones_meetups/tree/master/2020_sep')
+usethis::use_course('RLadiesCuerna/meetup_2020_sep')
 ###############################################################
 # R y RStudio
 ###############################################################
